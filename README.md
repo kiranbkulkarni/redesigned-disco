@@ -1,2 +1,2 @@
 # redesigned-disco
-Build and deploy a djnago project
+Build and deploy a Django project
